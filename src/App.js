@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <header className="App-header"></header>
       Meow
-      <img src={Garden} className="garden" alt="garden picture" />
+      <img src={Garden} className="garden" alt="garden" />
     </div>
   );
 }
