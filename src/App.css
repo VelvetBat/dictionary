@@ -3,3 +3,7 @@
   display: block;
   margin: 0 auto;
 }
+.app-footer {
+  text-align: center;
+  margin: 20px;
+}
