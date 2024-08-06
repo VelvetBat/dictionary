@@ -12,7 +12,7 @@ export default function App() {
         </header>
         <main>
           Discover:
-          <Dictionary />
+          <Dictionary defaultKeyword="meow" />
         </main>
         <footer className="app-footer">Coded by Rebecca Z</footer>
       </div>
