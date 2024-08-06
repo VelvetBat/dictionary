@@ -4,3 +4,16 @@ header {
 .results {
   margin: 30px;
 }
+.Dictionary section {
+  background: rgb(241, 247, 247);
+  padding: 5px;
+  border-radius: 14px;
+  box-shadow: 3px;
+  margin: 10px;
+  font-size: 16px;
+}
+.Dictionary input {
+  width: 80%;
+  border: 1px solid #ddd;
+  color: #222;
+}
