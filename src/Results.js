@@ -14,11 +14,10 @@ export default function Results(props) {
             </section>
           );
         })}
-        Meanings
         {props.results.meanings.map(function (meaning, index) {
           return (
             <section key={index}>
-              <Meaning meaning={meaning} />;
+              <Meaning meaning={meaning} />
             </section>
           );
         })}
